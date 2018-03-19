@@ -1,0 +1,41 @@
+div { 
+
+}
+ h1 { color:rgb(57, 90, 197);}
+
+
+ /* #1{font-size: 14px; 
+color: #829c00;}*/
+
+/* div{border-top: 3px; 
+    font-size: 24px;
+    color: #727272;}*/
+    div{
+        font-size: 14px;
+        color: #727272;
+        float: left;
+        padding-left: 14px;
+        padding-right: 12PX;
+    }
+
+    div.active{
+        color: #829C00;
+        float: left;
+       border-bottom:3px solid #829C00;
+       padding-bottom:14px ;
+        
+    }
+        
+     
+
+
+
+    .box
+{
+    position: relative;
+    font-size: 20px; 
+    /* fz20 */
+    margin: 100px;
+    /* m100 */
+    
+}
